@@ -25,6 +25,7 @@
         "@types/jsonwebtoken": "^9.0.5"
       }
     }
+    }
   "engines": {
     "node": ">=18.0.0"
   }
